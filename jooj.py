@@ -1,4 +1,4 @@
-from main import Personagem
+from mainJooj import Personagem
 
 player = Personagem("Theallrick")
 

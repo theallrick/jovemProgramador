@@ -3,3 +3,5 @@
 '''
 def saudacao(msg = "Saudações", nome = "Henrique"):
     print(msg, nome)
+
+saudacao()

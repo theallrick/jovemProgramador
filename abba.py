@@ -9,13 +9,6 @@ def tabuada():
             print('Serviço Finalizado!')
             break
 
-class Data:
-    def data(datas):
-        anos = datas-2022
-        meses = anos * 12
-        dias = anos * 365
-        seman = anos * 48
-
 
     
 
